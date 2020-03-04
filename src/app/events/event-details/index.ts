@@ -1,0 +1,6 @@
+export * from './event-route-activator.service'
+export * from './event-details.component'
+export * from '../events-list-resolver.service'
+export * from '../event-list.component'
+export * from '../shared/index'
+export * from '../event-details/index'
